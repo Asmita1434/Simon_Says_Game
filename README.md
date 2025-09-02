@@ -16,5 +16,5 @@ Frontend: HTML5, CSS3
 
 Logic & Interactivity: JavaScript# Simon_Says_Game
 
-## Live Demo  
-Try the game now:saysgame.netlify.app
+## 🎮 Live Demo  
+Play the game here 👉 [Simon Says Game](https://saysgame.netlify.app/)
