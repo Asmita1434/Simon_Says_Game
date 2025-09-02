@@ -15,3 +15,6 @@ Lightweight implementation using vanilla JavaScript
 Frontend: HTML5, CSS3
 
 Logic & Interactivity: JavaScript# Simon_Says_Game
+
+## Live Demo  
+Try the game now:saysgame.netlify.app
